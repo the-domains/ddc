@@ -1,0 +1,28 @@
+name: DDC
+favicon: null
+layout_spectrum: 0.17151249200105667
+typography_spectrum: 0.3597052753902972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3558727924246341
+  lightness: 0.3535385949071497
+  saturation: 0.259746860479936
+  rhythmicContrast: 0.12125547253526747
+purpose: []
