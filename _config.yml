@@ -1,7 +1,7 @@
 name: DDC
 favicon: null
-layout_spectrum: 0.17151249200105667
-typography_spectrum: 0.3597052753902972
+layout_spectrum: 1
+typography_spectrum: 0.50406
 cta:
   domain: null
   bucket: null
